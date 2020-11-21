@@ -1,5 +1,5 @@
 # ☼  The 'Say Thanks' Project
-
+适合学习Python 对于web开发 项目结构学习
 
 [![saythanks](https://img.shields.io/badge/say-thanks-ffAA00.svg)](https://saythanks.io/to/kennethreitz)
 
